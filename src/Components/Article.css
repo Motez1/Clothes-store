@@ -1,0 +1,16 @@
+.photo{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 25px;
+}
+.article-container{
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    border: 3px solid green;
+    border-radius: 25px;
+    margin :auto;
+    margin-top: 10px;
+    background-color: #ffba37;
+}
